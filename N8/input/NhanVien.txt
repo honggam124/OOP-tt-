@@ -1,0 +1,81 @@
+QL0,Kham Kim Ngoc,32,Da Nang,1.29,650689
+PC1,Than Nhut Thanh,35,Cao Bang,698185,1000
+TV2,Nguyen Thuc Anh,41,Can Tho,417886
+QL3,Bui Thi Thanh Ngu,40,Dak Nong,1.25,786487
+PC4,Nguyen Vo Phuong Dai,49,Dak Lak,630443,2000
+TV5,Nguyen Minh Hieu,49,Da Nang,306743
+QL6,Lu Thi Kim Thoa,56,Dong Thap,1.58,855956
+PC7,Le Huu An,32,Dong Nai,610600,1600
+TV8,Nong Duc Nhan,30,Dien Bien,467899
+QL9,Le Khac Phuong Oanh,58,Binh Phuoc,0.57,820622
+PC10,Dang Thi Ai Khanh,52,Binh Duong,532635,3000
+TV11,Vo Pham Kim Ngoc,42,Binh Dinh,371137
+QL12,Tran Ngoc Tran,59,Thai Binh,1.61,696190
+PC13,Le Thi Thuy Trang,40,Tay Ninh,595579,2333
+TV14,Nguyen Le Hong An,44,Son La,468726
+QL15,Huynh Quang Hien,47,Quang Ngai,1.77,666147
+PC16,Nguyen Anh Khoi,39,Quang Nam,625345,1999
+TV17,Do Le Suong,55,Quang Binh,429464
+QL18,Pham Thi Mai,55,Soc Trang,1.47,616842
+PC19,Nguyen Minh Khanh,52,Quang Tri,684100,2000
+TV20,Nguyen Do Nam Giang,33,Quang Ninh,394249
+QL21,Lu Hoang Phong,30,Dak Lak,1.15,755726
+PC22,Pham Minh Bao Trang,59,Da Nang,510911,2000
+TV23,Duong Hong Chuong,47,Cao Bang,450978
+QL24,Le Thi My Lien,37,Ben Tre,1.06,895276
+PC25,Nguyen Thi Kim Ly,44,Bac Ninh,607177,5000
+TV26,Mai Ba Quan,40,Bac Lieu,446056
+QL27,Nguyen Do Hoang Oanh,47,Quang Nam,1.82,618841
+PC28,Huynh Doan Thu Thao,45,Quang Binh,552611,8000
+TV29,Vo Thi Hoai Thuong,48,Phu Yen,416955
+QL30,Nguyen Van Sinh,30,Binh Dinh,1.11,855455
+PC31,Tran Thien Trieu,36,Ben Tre,511561,2000
+TV32,Nguyen Duc Huy,55,Bac Ninh,374933
+QL33,Pham Thanh Khai,50,Dak Nong,1.33,796196
+PC34,Truong Cong An Binh,56,Dak Lak,586810,1000
+TV35,Nguyen Tat Dat,58,Da Nang,412446
+QL36,Tran Vinh Hao,42,Bac Ninh,0.6,758979
+PC37,Tran Huy Hoang,48,Bac Lieu,573214,1666
+TV38,Luu Ngoc Duc Minh,34,Bac Kan,484606
+QL39,Do Van Tung,41,Bac Lieu,1.46,766970
+PC40,Hoa Vi Hao,31,Bac Kan,503825,1300
+TV41,Bui Duc Huan,55,Bac Giang,436084
+QL42,Ho Manh Hung,60,Bac Lieu,1.84,869442
+PC43,Bui Quang Huy,53,Bac Kan,557710,2890
+TV44,Nguyen Tan Anh Huy,30,Bac Giang,319428
+QL45,Nguyen Van Phai,44,Gia Lai,1.4,845073
+PC46,Le Nguyen Minh Tam,42,Dong Thap,565249,1790
+TV47,Do Xuan Thong,51,Dong Nai,410737
+QL48,Bach Huu Thuong,43,Ca Mau,1.2,630902
+PC49,Phan Thai Vuong,31,Binh Thuan,659669,2900
+TV50,Nguyen Cao Tri,34,Binh Phuoc,471925
+QL51,Pham Minh Tri,48,Bac Giang,0.71,849700
+PC52,Le Huu Duc,38,Ba Ria - Vung Tau,612409,3000
+TV53,Truong Trong Hieu,54,﻿An Giang,473274
+QL54,Nguyen Truong Hoang Hai,56,Thanh pho Ho Chi Minh,1.35,815514
+PC55,Duong Tuan Kiet,42,Tien Giang,544207,3700
+TV56,Nguyen Gia Nguyen,47,Thua Thien Hue,332972
+QL57,Le Minh Thuan,51,Binh Thuan,1.97,827015
+PC58,Nguyen Van Thuan,31,Binh Phuoc,598640,2800
+TV59,Nguyen Thi Yen Vi,53,Binh Duong,366614
+QL60,Nguyen Huynh Yen Nha,38,Cao Bang,1.36,728639
+PC61,Nguyen Hieu Hoa,45,Can Tho,523187,1100
+TV62,Truong Thi Anh Ngoc,37,Ca Mau,316236
+QL63,Huynh Trung Nhan,49,Dong Nai,0.76,778971
+PC64,Nguyen Thi Tuong Vy,37,Dien Bien,628680,4000
+TV65,Nguyen Huu Hao,52,Dak Nong,303324
+QL66,Ngo Huynh Khang,48,Binh Thuan,1.09,703173
+PC67,Nguyen The Anh,59,Binh Phuoc,692015,5000
+TV68,Nguyen Tien Hoang,48,Binh Duong,366020
+QL69,Nguyen Pham Hoang Nam,45,Thai Binh,0.64,657422
+PC70,Phan Hoai Nam,43,Tay Ninh,671195,3000
+TV71,Nguyen Minh Trinh,59,Son La,472176
+QL72,Tran Thao Ly,38,Thai Nguyen,1.25,676244
+PC73,Vo Duc Khanh,35,Thai Binh,696415,5000
+TV74,Thai Hoang Phuc Khang,42,Tay Ninh,379411
+QL75,Bui Huu Sy,47,Da Nang,1.72,626407
+PC76,Nguyen Thanh Long,59,Cao Bang,613063,2000
+TV77,Le Thi Thao Nguyen,51,Can Tho,325305
+QL78,Tran Le Hoang Diep,40,Bac Lieu,1.17,621414
+PC79,Nguyen Nha Han,56,Bac Kan,513268,4000
+TV80,Tran Minh Ky,48,Bac Giang,492614

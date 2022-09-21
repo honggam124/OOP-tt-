@@ -1,0 +1,15 @@
+PC1_Than Nhut Thanh_35_Cao Bang_698185_1000
+PC7_Le Huu An_32_Dong Nai_610600_1600
+TV8_Nong Duc Nhan_30_Dien Bien_467899
+TV20_Nguyen Do Nam Giang_33_Quang Ninh_394249
+PC22_Pham Minh Bao Trang_59_Da Nang_510911_2000
+QL24_Le Thi My Lien_37_Ben Tre_895276_1.06
+PC34_Truong Cong An Binh_56_Dak Lak_586810_1000
+TV38_Luu Ngoc Duc Minh_34_Bac Kan_484606
+QL45_Nguyen Van Phai_44_Gia Lai_845073_1.4
+TV47_Do Xuan Thong_51_Dong Nai_410737
+QL51_Pham Minh Tri_48_Bac Giang_849700_0.71
+QL54_Nguyen Truong Hoang Hai_56_Thanh pho Ho Chi Minh_815514_1.35
+PC58_Nguyen Van Thuan_31_Binh Phuoc_598640_2800
+TV74_Thai Hoang Phuc Khang_42_Tay Ninh_379411
+TV80_Tran Minh Ky_48_Bac Giang_492614

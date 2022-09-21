@@ -1,0 +1,27 @@
+QL0_Kham Kim Ngoc_32_Da Nang_650689_1.29
+QL3_Bui Thi Thanh Ngu_40_Dak Nong_786487_1.25
+QL6_Lu Thi Kim Thoa_56_Dong Thap_855956_1.58
+QL9_Le Khac Phuong Oanh_58_Binh Phuoc_820622_0.57
+QL12_Tran Ngoc Tran_59_Thai Binh_696190_1.61
+QL15_Huynh Quang Hien_47_Quang Ngai_666147_1.77
+QL18_Pham Thi Mai_55_Soc Trang_616842_1.47
+QL21_Lu Hoang Phong_30_Dak Lak_755726_1.15
+QL24_Le Thi My Lien_37_Ben Tre_895276_1.06
+QL27_Nguyen Do Hoang Oanh_47_Quang Nam_618841_1.82
+QL30_Nguyen Van Sinh_30_Binh Dinh_855455_1.11
+QL33_Pham Thanh Khai_50_Dak Nong_796196_1.33
+QL36_Tran Vinh Hao_42_Bac Ninh_758979_0.6
+QL39_Do Van Tung_41_Bac Lieu_766970_1.46
+QL42_Ho Manh Hung_60_Bac Lieu_869442_1.84
+QL45_Nguyen Van Phai_44_Gia Lai_845073_1.4
+QL48_Bach Huu Thuong_43_Ca Mau_630902_1.2
+QL51_Pham Minh Tri_48_Bac Giang_849700_0.71
+QL54_Nguyen Truong Hoang Hai_56_Thanh pho Ho Chi Minh_815514_1.35
+QL57_Le Minh Thuan_51_Binh Thuan_827015_1.97
+QL60_Nguyen Huynh Yen Nha_38_Cao Bang_728639_1.36
+QL63_Huynh Trung Nhan_49_Dong Nai_778971_0.76
+QL66_Ngo Huynh Khang_48_Binh Thuan_703173_1.09
+QL69_Nguyen Pham Hoang Nam_45_Thai Binh_657422_0.64
+QL72_Tran Thao Ly_38_Thai Nguyen_676244_1.25
+QL75_Bui Huu Sy_47_Da Nang_626407_1.72
+QL78_Tran Le Hoang Diep_40_Bac Lieu_621414_1.17
